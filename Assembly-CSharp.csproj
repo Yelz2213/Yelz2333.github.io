@@ -61,12 +61,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AudioController.cs" />
     <Compile Include="Assets\Scripts\BuildingManager.cs" />
     <Compile Include="Assets\Scripts\ChangeScene.cs" />
     <Compile Include="Assets\Scripts\Ground.cs" />
     <Compile Include="Assets\Scripts\MoneySystem.cs" />
+    <Compile Include="Assets\Scripts\PanelScript.cs" />
     <Compile Include="Assets\Scripts\PlayerStatus.cs" />
     <Compile Include="Assets\Scripts\Shop.cs" />
+    <None Include="Assets\Low Poly UI Kit - v.1.1c\UI Kit\AI Files\README.txt" />
+    <None Include="Assets\Low Poly UI Kit - v.1.1c\UI Kit\Font\README.txt" />
+    <None Include="Assets\Low Poly UI Kit - v.1.1c\README.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/user/Documents/CitySimulator/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

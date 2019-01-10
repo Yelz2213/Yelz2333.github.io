@@ -11,7 +11,7 @@ public class PlayerStatus : MonoBehaviour {
     public static int usedPower;
 
     //money
-    public int startMoney = 500;
+    public int startMoney = 600;
 
     //
     public static int population;
